@@ -16,6 +16,23 @@ let win
 <% } else { %>protocol.registerStandardSchemes(['app'], { secure: true })
 <% } %>
 function createWindow () {
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
+  console.log("Create window")
   // Create the browser window.
   win = new BrowserWindow({ width: 270, height: 100, webPreferences: {
     nodeIntegration: true
